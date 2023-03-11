@@ -1,6 +1,8 @@
-# rust-module-system
+# 📓 rust-module-system
 
-See [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system/).
+See this article by [@Sheshbabu](https://github.com/sheshbabu)
+titled [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system/).
+This repo works through that.
 
 ## Summary
 
@@ -12,5 +14,3 @@ See [Clear explanation of Rust’s module system](https://www.sheshbabu.com/post
 * The pub keyword makes things public
 * The use keyword is used to shorten the module path
 * We don’t need to explicitly declare 3rd party modules
-
-
